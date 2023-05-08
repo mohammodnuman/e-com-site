@@ -1,0 +1,301 @@
+.logo{
+  width: 170px;height: 80px;
+  margin-top: -23px;
+  margin-left:-60px;
+  position: relative;
+}
+h4{
+  position: absolute;
+  color: rgb(255, 38, 0);
+  margin-top: -53px;
+  margin-left:45px;
+  font-size: 16px;
+}
+.navi{
+  position: absolute;
+  margin-top: -52px;
+  margin-left: 170px;;
+}
+li{
+  display: inline-block;
+  margin-right: 18px;
+  font-size: 18px;
+  font-weight: 450;
+}
+a{
+  text-decoration: none;
+  padding: 4px;
+  color:black;
+}
+a:hover{
+  background: #e6e3e3;
+  border-radius: 5px;
+  outline: none;
+}
+.search{
+  position:absolute;
+  margin-top: -52px;
+  margin-left: 900px;
+  width: 300px;
+  height: 30px;
+  
+  border-radius: 50px solid tomato;
+}
+i {
+  position: absolute;
+  margin-top: -45px;
+  margin-left: 1170px;
+}
+.sale{
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 700px;
+  width: 550px;
+  height: 500px;
+}
+.order{
+  background: rgb(255, 38, 0);
+  color:#fff;
+  font-size: 30px;
+  border-radius: 10px;
+}
+.order:hover{
+   background: rgb(31, 2, 89);
+   color: #e3e0e0;
+   transition: .75s;;
+}
+h1{
+    margin-top: 240px;
+    margin-left: 230px;
+}
+.tshirt{
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 20px;
+  width: 170px;
+  border: 3px solid blue;
+  height: 200px;
+}
+.price{
+  position: absolute;
+  margin-top: 510px;
+  margin-left: 33px;
+  background: rgb(3, 86, 3);
+  font-size: 28px;
+  color: #fff;
+}
+p{
+  background: green;
+  width: 150px;
+  height: 40px;
+  text-align: center;
+}
+.tshirt1{position: absolute;
+  margin-top: 300px;
+  margin-left: 250px;
+  width: 170px;
+  border: 3px solid blue;
+  height: 200px;
+
+}
+.price1{position: absolute;
+  margin-top: 510px;
+  margin-left: 265px;
+  background: rgb(3, 86, 3);
+  font-size: 28px;
+  color: #fff;
+}
+.tshirt2{
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 480px;
+  width: 170px;
+  height: 200px;
+  border: 3px solid blue ;
+}
+.price2{
+  position: absolute;
+  margin-top: 510px;
+  margin-left: 495px;
+  background: rgb(3, 86, 3);
+  font-size: 28px;
+  color: #fff; 
+}
+.shirt{
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 700px;
+  width: 170px;
+  height: 200px;
+  border: 3px solid blue ;
+}
+.price3{
+  position: absolute;
+  margin-top: 510px;
+  margin-left: 715px;
+  background: rgb(3, 86, 3);
+  font-size: 28px;
+  color: #fff;
+}
+.shirt1{
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 920px;
+  width: 170px;
+  height: 200px;
+  border: 3px solid blue ;
+}
+.price4{
+  position: absolute;
+  margin-top: 510px;
+  margin-left: 932px;
+  background: rgb(3, 86, 3);
+  font-size: 28px;
+  color: #fff;
+}
+.shirt2{
+  position: absolute;
+  margin-top: 590px;
+  margin-left: 20px;
+  width: 170px;
+  height: 200px;
+  border: 3px solid blue ;
+}
+.price5{
+  position: absolute;
+  margin-top: 802px;
+  margin-left: 33px;
+  background: rgb(3, 86, 3);
+  font-size: 28px;
+  color: #fff;
+}
+.shirt3{
+  position: absolute;
+  margin-top: 590px;
+  margin-left: 250px;
+  width: 170px;
+  height: 200px;
+  border: 3px solid blue ;
+
+}
+.price7{
+  position: absolute;
+  margin-top: 803px;
+  margin-left: 265px;
+  background: rgb(3, 86, 3);
+  font-size: 28px;
+  color: #fff;
+}
+.shirt4{
+  position: absolute;
+  margin-top: 590px;
+  margin-left: 480px;
+  width: 170px;
+  height: 200px;
+  border: 3px solid blue ;
+}
+.price8{
+  position: absolute;
+  margin-top: 803px;
+  margin-left: 492px;
+  background: rgb(3, 86, 3);
+  font-size: 28px;
+  color: #fff;
+}
+.short5{
+  position: absolute;
+  margin-top: 590px;
+  margin-left: 693px;
+  width: 170px;
+  height: 200px;
+  border: 3px solid blue ;
+}
+.price9{
+  position: absolute;
+  margin-top: 803px;
+  margin-left: 707px;
+  background: rgb(3, 86, 3);
+  font-size: 28px;
+  color: #fff;
+}
+.watch{
+  position: absolute;
+  margin-top: 590px;
+  margin-left: 915px;
+  width: 170px;
+  height: 200px;
+  border: 3px solid blue ;
+}
+.price9{
+  position: absolute;
+  margin-top: 803px;
+  margin-left: 928px;
+  background: rgb(3, 86, 3);
+  font-size: 28px;
+  color: #fff;
+}
+.watch1{
+  position: absolute;
+  margin-top: 890px;
+  margin-left: 26px;
+  width: 170px;
+  height: 200px;
+  border: 3px solid blue ;
+}
+.price10{
+  position: absolute;
+  margin-top: 803px;
+  margin-left: 707px;
+  background: rgb(3, 86, 3);
+  font-size: 28px;
+  color: #fff;
+}
+.price11{
+    position: absolute;
+    margin-top: 1103px;
+    margin-left: 40px;
+    background: rgb(3, 86, 3);
+    font-size: 28px;
+    color: #fff;
+  
+}
+.watch2{
+  position: absolute;
+  margin-top: 890px;
+  margin-left: 246px;
+  width: 170px;
+  height: 200px;
+  border: 3px solid blue ;
+}
+.price12{
+  position: absolute;
+  margin-top: 1103px;
+  margin-left: 258px;
+  background: rgb(3, 86, 3);
+  font-size: 28px;
+  color: #fff;
+}
+.u1{
+  position: absolute;
+  margin-top: 1350px;
+  
+}
+.u2{
+  position: absolute;
+  margin-top: 1350px;
+  margin-left: 200px;
+}
+.u3{
+  position: absolute;
+  margin-top: 1350px;
+  margin-left: 250px;
+}
+.u4{
+  position: absolute;
+  margin-top: 1350px;
+  margin-left: 400px;
+}
+.u1 .u2 .u3 .u4{ 
+  font-size: 13px;
+  color:#5a5858;
+}
